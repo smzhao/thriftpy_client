@@ -1,0 +1,11 @@
+Metadata-Version: 1.0
+Name: thriftpy-client
+Version: 0.1
+Summary: a library for thriftpy client
+Home-page: https://github.com/smzhao/thriftpy_client
+Author: zhaowenpeng
+Author-email: binpocn@163.com
+License: MIT License
+Description: UNKNOWN
+Keywords: thriftpy_client
+Platform: any
