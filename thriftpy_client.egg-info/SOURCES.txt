@@ -1,4 +1,7 @@
 setup.py
+thriftpy_client/__init__.py
+thriftpy_client/logs.py
+thriftpy_client/thriftpy_client.py
 thriftpy_client.egg-info/PKG-INFO
 thriftpy_client.egg-info/SOURCES.txt
 thriftpy_client.egg-info/dependency_links.txt
